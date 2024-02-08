@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isuri</h1>
-<h3 align="center">Baby Name Trend Analysis</h3>
+<h1 align="center">Baby Name Trend Analysis</h1>
 <h4 align="center">Trends in baby name popularity based on US social security data from 1980-2010</h4>
 
 <h5 align="left">Languages and Tools:</h5>
