@@ -54,3 +54,8 @@ select name , count(*) , sum(births)
 from names 
 group by name 
 order by name;
+
+
+-- - *** reginos table
+--  duplicate names New England * New_England
+select region, count(*) from regions group by region;
